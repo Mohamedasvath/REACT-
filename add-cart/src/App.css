@@ -1,0 +1,88 @@
+.App {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.container-about{
+  background-color: black;
+  color: white;
+}
+
+.about-content{
+  text-align: center;
+  padding: 20px;
+}
+.textline-para{
+  padding: 10px;
+}
+
+.shop-cart{
+  background-color: rgb(29, 213, 241);
+  color: white;
+  font-size: 900 !important;
+
+}
+
+/*About Us */
+.container-about{
+  background-color: black;
+  color: white;
+}
+
+.about-content{
+  text-align: center;
+  padding: 20px;
+}
+.textline-para{
+  padding: 10px;
+}
+
+.shop-cart{
+  background-color: rgb(29, 213, 241);
+  color: white;
+  font-size: 900 !important;
+
+}
+.contentcontact{
+  margin-top: 100px;
+  
+}
+
+.logo{
+  
+  gap: 10px;
+  margin-left: 15px;
+  color: rgb(0, 0, 0) !important;
+  background-color: rgb(78, 78, 78) !important;
+ 
+  border-radius: 50px;
+  
+
+}
+.logo a {
+  color: rgb(0, 0, 0) !important;
+  padding: 8px;
+  font-size:20px;
+
+}
+.logo a:hover {
+  color: rgb(194, 7, 175) !important;
+
+}
+.contact-container{
+  border-radius: 30px !important;
+}
+  
+/* product */
+
+.addToCartBttn:hover {
+  background-color: rgb(19, 19, 19);
+  color: white;
+  cursor: pointer;
+}
